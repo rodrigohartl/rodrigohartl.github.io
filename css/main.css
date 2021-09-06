@@ -47,9 +47,11 @@ Social*/
   height: auto;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
   justify-self: end;
   margin-right: 45px;
+  
+  
 }
 
 .social-icons a{
