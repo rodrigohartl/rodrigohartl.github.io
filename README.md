@@ -1,3 +1,3 @@
-# You can see this page in: 
+Follow the link:
 
 https://rodrigohartl.github.io/
